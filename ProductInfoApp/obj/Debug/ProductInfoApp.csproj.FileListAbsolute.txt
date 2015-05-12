@@ -1,0 +1,9 @@
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.pdb
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csprojResolveAssemblyReference.cache
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductInfoUI.resources
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.exe
+E:\C#_Batch2\P\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.pdb
